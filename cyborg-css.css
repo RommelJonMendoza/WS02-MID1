@@ -16,6 +16,7 @@ font-size: 90px;
 color:#073A6B;
 }
 h2{
+font-size: 50px;
 }
 .himg{
 border-radius: 174px;
@@ -68,10 +69,12 @@ text-decoration: underline;
   .box {
   border-radius: 100%;
   width: 250px;
+  height:200px;
   margin: 0 10px;
-  border: 24px solid #C60068; 
+  border: 24px solid #991E34; 
   box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
   transition: 1s;
+  text-align: center;
 }
   .box img {
   display: block;
@@ -86,8 +89,9 @@ text-decoration: underline;
   .box2 {
   border-radius: 100%;
   width: 250px;
+  height:200px;
   margin: 0 10px;
-  border: 24px solid #6FB222; 
+  border: 24px solid #D22733; 
   box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
   transition: 1s;
 }
@@ -104,8 +108,9 @@ text-decoration: underline;
 .box3 {
   border-radius: 100%;
   width: 250px;
+  height:200px;
   margin: 0 10px;
-  border: 24px solid #31248F; 
+  border: 24px solid #074238; 
   box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
   transition: 1s;
 }
